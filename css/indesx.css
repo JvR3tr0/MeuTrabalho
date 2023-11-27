@@ -1,0 +1,89 @@
+.header {
+
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    background-color:#591C21;
+}
+
+.header h2{
+
+    color: #04BF9D;
+    padding-top: 10%;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #023535;
+}
+  
+li {
+    float: left;
+}
+
+li:hover {
+    background-color: black;   
+}
+
+a .ativo{
+    background-color: white;
+    color: black;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.centro {
+
+    float: left;
+    width: 70%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 5%;
+
+}
+
+.direita {
+
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+
+}
+
+.postagem {
+
+
+
+}
+
+.cabeca{
+    text-align: center;
+    color: white;
+    background-color: #CC0000;
+
+}
+
+.noticia {
+
+    background-color: #C4C4C4 ;
+
+}
+
+.noticia img{
+
+    
+    
+
+}

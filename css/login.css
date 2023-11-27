@@ -1,0 +1,25 @@
+.tela{
+
+    margin-left: 40%;
+
+}
+
+.forms{
+
+    border: 3px solid whitesmoke;
+    background-color: #f3f3f3;
+    color: black;
+    width: 22%;
+
+}
+
+.forms button {
+
+    margin-top: 20px;
+}
+
+.forms h1{
+    color: black;
+    margin-bottom: 10px;
+}
+
